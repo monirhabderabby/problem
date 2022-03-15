@@ -1,0 +1,37 @@
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-1{
+    margin: 10px;
+    outline: none;
+    background-color: transparent;
+    border: 0.5px solid black;
+    color: black;
+    font-size: 45px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+.btn-1:hover{
+    background-color: tomato;
+    color: white;
+
+}
+.btn-2{
+    margin: 10px;
+    outline: none;
+    background-color: transparent;
+    border: 0.5px solid black;
+    color: black;
+    font-size: 45px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+.btn-2:hover{
+    background-color: tomato;
+    color: white;
+}
